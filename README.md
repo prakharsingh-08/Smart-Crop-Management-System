@@ -136,9 +136,9 @@ Open your browser and go to http://localhost:5000/ to access the Farmify web app
 
 ## Contributors
 
+- [Prakhar Singh](https://www.github.com/prakharsingh-08)
+- [Ishan Mani Tripathi](https://www.github.com/Ishan-mani)
 - [Arpitya Kumar Singh](https://www.github.com/arpitya)
 - [Ashish Kumar Sahay](https://www.github.com/xznoz123)
 - [Asutosh Sandal](https://www.github.com/Asutoshsandal)
-- [Prakhar Singh](https://www.github.com/prakharsingh-08)
 - [Sthanu Pradhan](https://github.com/sthanu24)
-- [Ishan Mani Tripathi](https://www.github.com/Ishan-mani)
